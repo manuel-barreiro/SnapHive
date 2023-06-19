@@ -1,0 +1,19 @@
+.btn-primary {
+    background-color: black;
+    border-color: black;
+  }
+  
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active {
+    background-color: black;
+    border-color: black;
+  }
+
+.logo-image{
+    width: 150px;
+    height: auto;
+    margin-left: 10px;
+}
+
+body {
+  font-family: 'Red Hat Display', sans-serif !important;
+}

@@ -25,6 +25,13 @@
     />
     <link rel="stylesheet" href="/sign-in.css" />
 
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="/favicon.png"/>
+
     <link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">
 
     <style>
@@ -106,10 +113,10 @@
 
   <body class="d-flex align-items-center py-4 bg-body-tertiary">
 
-    <main class="form-signin w-100 m-auto">
+    <main class="form-signin w-100 m-auto p-5">
       <form action="/signup" method="POST">
-        <img class="img-fluid mb-4" src="imgs/logo.png" alt="">
-        <h1 class="h3 mb-3 fw-normal">Sign Up</h1>
+        <img class="img-fluid mb-4" src="imgs/logo-white.png" alt="">
+        <h1 class="h3 mb-3 fw-normal text-white">Sign Up</h1>
         <% if (locals.messages.errors) { %>
             <% messages.errors.forEach( el => { %>
                 <div class="alert alert-danger"><%= el.msg %></div>
@@ -138,7 +145,7 @@
         </div>
         <button class="btn btn-primary w-100 py-2 mb-2" type="submit">Register</button>
 
-        <p>Already have an account? <a href="/login">Login</a></p>
+        <p class="text-white">Already have an account? <a href="/login">Login</a></p>
       </form>
     </main>
 
