@@ -12,6 +12,13 @@ module.exports = {
       console.log(err);
     }
   },
+  newPost: async (req, res) => {
+    try {
+      res.render("newPost.ejs");
+    } catch (err) {
+      console.log(err);
+    }
+  },
   getFeed: async (req, res) => {
     try {
       const posts = await Post.find().sort({ createdAt: "desc" }).lean();
