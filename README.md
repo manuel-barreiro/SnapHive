@@ -20,7 +20,7 @@ Join the Hive! https://snaphive-da34b13b4926.herokuapp.com/
 
 ## Optimizations
 
-I consistently refactor and optimize my code, sometimes for efficiency, sometimes for readability.
+Some possible optimizations could be adding React, to make the front-end better. Also some functionality could be improved such as deleting and liking comments, and adding usernames in the feed. Of course user-following and post bookmarking would be nice features to add too.
 
 ## Lessons Learned:
 
