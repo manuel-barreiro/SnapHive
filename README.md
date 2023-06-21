@@ -7,6 +7,12 @@ Join the Hive! https://snaphive-da34b13b4926.herokuapp.com/
 
 <img width="960" alt="image" src="https://github.com/manuel-barreiro/SnapHive/assets/103281038/62dba133-a031-463e-a4a8-456e4288ace0">
 
+<img width="947" alt="image" src="https://github.com/manuel-barreiro/SnapHive/assets/103281038/098e5742-1695-4adc-be4a-c4cd43dc5bd2">
+
+<img width="957" alt="image" src="https://github.com/manuel-barreiro/SnapHive/assets/103281038/d1d9b5de-aa99-4aef-ad95-36282ed31059">
+
+
+
 
 ## How It's Made:
 
