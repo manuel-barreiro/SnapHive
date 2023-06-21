@@ -1,13 +1,12 @@
-# Social Media App
+# SnapHive
+From breathtaking landscapes to candid snapshots, SnapHive is your gateway to share, discover, and engage with captivating visual narratives. Join the hive and let your stories unfold!
 
-# Coccions Webpage
-Responsive design website developed for Coccions, a bakery business based in Argentina. Adaptive design for small, medium and large viewports. 
+Join the Hive! https://snaphive-da34b13b4926.herokuapp.com/
 
-Visit https://coccions.com.ar/
+<img width="947" alt="image" src="https://github.com/manuel-barreiro/SnapHive/assets/103281038/8f1529c6-7b5a-4e63-9184-43ab35480071">
 
-<img width="949" alt="image" src="https://user-images.githubusercontent.com/103281038/233858471-0d74504f-6073-4374-94f8-110613aad33f.png">
+<img width="960" alt="image" src="https://github.com/manuel-barreiro/SnapHive/assets/103281038/62dba133-a031-463e-a4a8-456e4288ace0">
 
-<img width="945" alt="image" src="https://user-images.githubusercontent.com/103281038/233858507-ca7f77ee-5d8a-4a81-a07d-9190d5f45eba.png">
 
 ## How It's Made:
 
