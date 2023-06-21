@@ -10,7 +10,7 @@ Join the Hive! https://snaphive-da34b13b4926.herokuapp.com/
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Node.js, Express.js, Bootstrap, Tailwind
+**Tech used:** HTML, CSS, JavaScript, Node.js, Express.js, Bootstrap, Tailwind, Passport.js, Mongo Atlas
 
 ## Optimizations
 
@@ -18,7 +18,7 @@ I consistently refactor and optimize my code, sometimes for efficiency, sometime
 
 ## Lessons Learned:
 
-During the development of this project, I learned the importance of thorough planning and organization in order to avoid confusion and delays.
+During the development of this project, I learned the importance of thorough planning and organization in order to avoid confusion and delays. 
 
 
 # Install
