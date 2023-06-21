@@ -10,7 +10,7 @@ Join the Hive! https://snaphive-da34b13b4926.herokuapp.com/
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript
+**Tech used:** HTML, CSS, JavaScript, Node.js, Express.js, Bootstrap, Tailwind
 
 ## Optimizations
 
