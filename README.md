@@ -1,7 +1,7 @@
 # SnapHive
 From breathtaking landscapes to candid snapshots, SnapHive is your gateway to share, discover, and engage with captivating visual narratives. Join the hive and let your stories unfold!
 
-Join the Hive! https://snaphive-da34b13b4926.herokuapp.com/
+Join the Hive! 
 
 <img width="947" alt="image" src="https://github.com/manuel-barreiro/SnapHive/assets/103281038/8f1529c6-7b5a-4e63-9184-43ab35480071">
 
